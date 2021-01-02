@@ -23,7 +23,6 @@ class _HomeState extends State<Home> {
       resizeToAvoidBottomInset: false,
       appBar: AppBar(
           centerTitle: true,
-          iconTheme: IconThemeData(color: Colors.black),
           title: Text('Calculo do IMC', style: TextStyle(color: Colors.black)),
           backgroundColor: Colors.blueAccent,
       ),
